@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Aiyatullah's GitHub | Stats](https://stats.quine.sh/Aiyatullah/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aiyatullah)
+
 
 <!--
 **Aiyatullah/Aiyatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
